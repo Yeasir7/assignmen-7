@@ -2,7 +2,7 @@ import React from 'react';
 import { CiClock1 } from "react-icons/ci";
 import { SlFire } from "react-icons/sl";
 
-const Cards = ({recipe}) => {
+const Cards = ({recipe, handleCook}) => {
     const {recipe_image, recipe_name, short_description, ingredients,preparing_time,calories} = recipe
     return (
         <div>
@@ -33,7 +33,7 @@ const Cards = ({recipe}) => {
         </div>
     </div>
     <div className="card-actions">
-      <button className="btn bg-[#0BE58A] rounded-full">Want to Cook</button>
+      <button onClick={()=>handleCook(recipe)} className="btn bg-[#0BE58A] rounded-full">Want to Cook</button>
     </div>
   </div>
 </div>

@@ -1,17 +1,15 @@
-import { useState } from 'react'
-import './App.css'
-import Header from './components/Header/Header'
-import Section from './components/Section/Section'
+import { Toaster } from 'react-hot-toast'; // 👈 Import Toaster
+import Header from './components/Header/Header';
+import Section from './components/Section/Section';
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-    <Header></Header>
-    <Section></Section>
+      <Header />
+      <Section />
+      <Toaster position="top-center" reverseOrder={false} /> {/* 👈 Add Toaster here */}
     </>
-  )
+  );
 }
 
-export default App
+export default App;
