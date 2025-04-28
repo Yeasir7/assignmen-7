@@ -1,0 +1,80 @@
+[
+    {
+      "recipe_image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-apples-chili_2829-19992.jpg?t=st=1745843722~exp=1745847322~hmac=81deada32c9710e5d0d0377545f0e25be044a8bea19d784034d5d86ac62e09f9&w=996",
+      "recipe_id": "RC001",
+      "recipe_name": "Garlic Herb Roasted Chicken",
+      "short_description": "Flavorful roasted chicken with herbs and garlic.",
+      "ingredients": [
+        "Whole chicken",
+        "Garlic",
+        "Rosemary"
+      ],
+      "preparing_time": 75,
+      "calories": 450
+    },
+    {
+      "recipe_image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?t=st=1745844035~exp=1745847635~hmac=fe1e2bba1c235ad0d090e86e41a7d9737d3a3bc361a935edfc79e178ccee0d8e&w=996",
+      "recipe_id": "RC002",
+      "recipe_name": "Creamy Tomato Pasta",
+      "short_description": "Comforting pasta in a rich tomato cream sauce.",
+      "ingredients": [
+        "Pasta",
+        "Tomatoes",
+        "Heavy cream"
+      ],
+      "preparing_time": 35,
+      "calories": 520
+    },
+    {
+      "recipe_image": "https://img.freepik.com/premium-photo/indian-lunch-dinner-main-course-food-group-includes-paneer-butter-masala-dal-makhani-palak-paneer-roti-rice-etc-selective-focus_466689-6730.jpg?w=996",
+      "recipe_id": "RC003",
+      "recipe_name": "Mediterranean Salad",
+      "short_description": "Fresh salad with classic Mediterranean flavors.",
+      "ingredients": [
+        "Cucumber",
+        "Tomatoes",
+        "Olives"
+      ],
+      "preparing_time": 20,
+      "calories": 280
+    },
+    {
+      "recipe_image": "https://img.freepik.com/free-photo/front-view-tasty-meat-soup-with-potatoes-greens-dark-desk-meal-meat-dish-sauce_140725-79118.jpg?t=st=1745844208~exp=1745847808~hmac=9fe5e700380bd5f4b0b967b48a05e745ced014383d915d3c169e2be063939840&w=996",
+      "recipe_name": "Hearty Vegetable Soup",
+      "short_description": "Nutritious soup filled with various vegetables.",
+      "ingredients": [
+        "Carrots",
+        "Potatoes",
+        "Vegetable broth"
+      ],
+      "preparing_time": 45,
+      "calories": 210
+    },
+    {
+      "recipe_image": "https://img.freepik.com/free-photo/lamb-steak-pieces-with-sauces-grilled-pepper-fresh-salad-wooden-board_140725-10580.jpg?t=st=1745844259~exp=1745847859~hmac=e06130149cbbd7d09642aec62bdd2276505d6bba7f7776729afb8007a2f163a5&w=996",
+      "recipe_id": "RC005",
+      "recipe_name": "Berry Blast Smoothie",
+      "short_description": "Refreshing smoothie with a mix of berries.",
+      "ingredients": [
+        "Mixed berries",
+        "Banana",
+        "Yogurt"
+      ],
+      "preparing_time": 5,
+      "calories": 180
+    },
+    {
+      "recipe_image": "https://img.freepik.com/free-photo/side-view-shawarma-with-fried-potatoes-board-cookware_176474-3215.jpg?t=st=1745843041~exp=1745846641~hmac=fa0d865d72f885d423aaba0923934c0d82073db4332497f04a38c5b357542d8e&w=740",
+      "recipe_id": "RC006",
+      "recipe_name": "Quick Beef Stir-Fry",
+      "short_description": "Fast beef stir-fry with colorful vegetables.",
+      "ingredients": [
+        "Beef sirloin",
+        "Bell peppers",
+        "Soy sauce"
+      ],
+      "preparing_time": 25,
+      "calories": 380
+    }
+  ]
+  
