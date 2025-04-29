@@ -72,7 +72,7 @@ const Header = () => {
       <p className="my-6">
       Learn and Master Basic Programming, Data Structures, Algorithm, OOP, Database and solve 500+ coding problems to become an exceptionally well world-class Programmer.
       </p>
-      <button className="btn bg-[#0BE58A] rounded-full">Explore Now</button>
+      <button className="btn bg-[#0BE58A] rounded-full text-black">Explore Now</button>
       <button className="btn btn-outline rounded-full ml-4">Our Feedback</button>
     </div>
   </div>
